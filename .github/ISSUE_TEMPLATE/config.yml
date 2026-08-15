@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Accidental spoiler or sensitive disclosure
+    url: https://github.com/DefinitelySecureStudio/universe/security/advisories/new
+    about: Report hidden lore, unpublished material, and security concerns privately.
+  - name: Studio repository architecture
+    url: https://github.com/DefinitelySecureStudio/studio/blob/main/ARCHITECTURE.md
+    about: Review repository responsibilities and content boundaries.

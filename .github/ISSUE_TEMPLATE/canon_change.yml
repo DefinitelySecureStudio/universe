@@ -1,0 +1,46 @@
+name: Canon change
+description: Propose an additive, corrective, deprecating, or retconning public-canon change.
+title: "[Canon]: "
+labels:
+  - enhancement
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Change type
+      options:
+        - Additive
+        - Correction
+        - Deprecation
+        - Retcon
+        - Metadata only
+    validations:
+      required: true
+  - type: textarea
+    id: facts
+    attributes:
+      label: Proposed public facts
+      description: State only information that is safe to discuss publicly.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Public source or approval
+      description: Link the published source or request canon-editor attestation without exposing private source metadata.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Affected records and continuity
+      description: Identify public records, comics, arcs, and downstream consumers.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Reader-safety confirmation
+      options:
+        - label: This issue reveals no hidden lore, unpublished twist, private context, or confidential metadata.
+          required: true

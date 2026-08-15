@@ -1,0 +1,9 @@
+# Canon requires explicit editorial ownership.
+* @andrewperis
+
+# Sensitive canon-control and publication surfaces.
+/.github/ @andrewperis
+/canon/ @andrewperis
+/comics/ @andrewperis
+/docs/ @andrewperis
+/SECURITY.md @andrewperis

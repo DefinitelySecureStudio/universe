@@ -1,0 +1,30 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Drafts, private inputs, and generated working files
+drafts/
+private/
+working/
+tmp/
+.cache/
+*.log
+
+# High-resolution and editable creative masters
+*.psd
+*.psb
+*.ai
+*.afdesign
+*.afphoto
+*.kra
+*.clip

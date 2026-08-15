@@ -1,0 +1,33 @@
+name: Publication record
+description: Add or correct reader-safe metadata for a published comic.
+title: "[Publication]: DS-"
+labels:
+  - documentation
+body:
+  - type: input
+    id: id
+    attributes:
+      label: Canonical comic ID
+      placeholder: DS-0001
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public publication URL
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Record change
+      description: Describe the reader-safe metadata to add or correct.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Reader-safety confirmation
+      options:
+        - label: The comic is already published and this issue contains no unrevealed material.
+          required: true
