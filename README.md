@@ -84,13 +84,14 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a change. Report an
 accidental spoiler, private-material disclosure, or security concern through the
 private process in [SECURITY.md](SECURITY.md), not a public issue.
 
-## Rights and license status
+## License and rights
 
-No repository-wide license has been selected yet. Until the licensing decision
-in [studio issue #31](https://github.com/DefinitelySecureStudio/studio/issues/31)
-is completed and explicit terms are added, all text, characters, artwork, comic
-records, and other creative material remain all rights reserved. Public
-visibility does not grant adaptation, merchandising, model-training, or
-redistribution rights.
+This repository is publicly readable, but its creative content is proprietary.
+Characters, settings, canon, stories, comics, dialogue, artwork, publication
+assets, and original metadata are © 2026 Definitely Secure Studio, all rights
+reserved unless a specific release states otherwise. See [LICENSE](LICENSE) and
+[NOTICE](NOTICE).
 
-© 2026 Definitely Secure Studio. All rights reserved.
+Repository access grants no adaptation, redistribution, merchandising,
+trademark, endorsement, or model-training rights. Uses permitted by applicable
+law remain unaffected. Third-party material retains its own terms.
