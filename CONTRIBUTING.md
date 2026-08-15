@@ -39,3 +39,15 @@ A pull request is not canon until approved by CODEOWNERS and merged. Complete th
 reader-safety checklist, request canon-editor review, and verify all local links
 and structured metadata. Changes affecting shared schemas or identifiers must
 use a released Codex contract rather than defining a local alternative.
+
+## Contributions and rights
+
+This repository is not an open venue for unsolicited characters, stories,
+dialogue, jokes, artwork, or other creative submissions. Do not submit creative
+material unless Definitely Secure Studio approved the submission in writing and
+the applicable agreement establishes the rights needed to publish it. A pull
+request by itself does not transfer ownership. Maintainers must not merge
+material with undocumented, unknown, or incompatible rights.
+
+Corrections and metadata changes must cite public sources and identify any
+third-party material. Preserve every required license and attribution notice.
