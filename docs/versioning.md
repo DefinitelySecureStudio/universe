@@ -14,7 +14,24 @@ Every release records its Git revision, applicable Codex contract versions, and
 included publication records. Released versions are immutable; later corrections
 produce a new version rather than moving or rewriting a tag.
 
-Cross-repository artifact packaging and exact pinning mechanics will follow
-[studio issue #33](https://github.com/DefinitelySecureStudio/studio/issues/33).
-Until then, consumers pin both an immutable Git commit and the declared canon
-version. `main` is the next release candidate, not a reproducible release input.
+## Canon snapshot releases
+
+Publish each canon version as an immutable GitHub Release using the tag
+`canon-vMAJOR.MINOR.PATCH`. Its snapshot bundle records the exact Universe
+commit and includes reader-safe canon data, included publication IDs, the
+applicable Codex contract references, license and notices, and a manifest of
+file sizes and SHA-256 digests.
+
+Consumers pin the canon version, immutable tag, exact commit, artifact URI,
+media type, byte size, and verified digest. `main`, a version range, or a tag
+without the artifact digest is not a reproducible input.
+
+## Release ordering
+
+Platform builds a comic release `R` against an already released canon snapshot
+`C(n)`. Canon editors approve the resulting public manifest and may include `R`
+in a later snapshot `C(n+1)`. The release manifest records `C(n)` as its input;
+it must not claim `C(n+1)` as an input when that snapshot contains `R`.
+
+The complete pinning and provenance policy is defined by the
+[Studio dependency strategy](https://github.com/DefinitelySecureStudio/studio/blob/main/dependency-strategy/README.md).
