@@ -26,6 +26,12 @@ belongs in [`platform`](https://github.com/DefinitelySecureStudio/platform).
 The organization-wide ownership model is defined in the
 [`studio` repository architecture](https://github.com/DefinitelySecureStudio/studio/blob/main/ARCHITECTURE.md).
 
+## Constitutional alignment
+
+This repository adopts the Definitely Secure Studio Constitution v1.0.0. See
+[CONSTITUTION_CONFORMANCE.md](CONSTITUTION_CONFORMANCE.md) for the immutable
+reference, assessed revision, checklist evidence, findings, and review triggers.
+
 ## Repository layout
 
 | Path | Purpose |
