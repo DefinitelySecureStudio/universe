@@ -6,7 +6,7 @@
 - Public debut: Not assigned; no episode selected
 - Last reviewed: 2026-10-13
 
-> U03 proposal for Andrew Peris to review. The name, pronouns, role details, personality, and voice below are new creative choices, not established facts. This record is not canon and does not claim a public appearance.
+> Proposed draft. The details below are creative choices, not established facts. This record is not canon and does not claim a public appearance.
 
 ## Proposed identity and role
 
@@ -27,6 +27,6 @@ June speaks in compact, declarative sentences. She chooses the exact status verb
 - Shared workplace: [Handoff Room](../locations/handoff-room.md)
 - Coworker relationship: [June Park and Ivo Bell](../relationships/june-park-and-ivo-bell.md)
 
-## Provenance and open decisions
+## Provenance
 
-The coverage and seed come from the U01 packet at [Studio PR 150 head `9f8b6dce18fc57ead202dea0d723a9c7b9f6997d`](https://github.com/DefinitelySecureStudio/studio/blob/9f8b6dce18fc57ead202dea0d723a9c7b9f6997d/issues/u01-epic8-public-source-inventory.md), accepted as the starting point for drafting by Andrew Peris on 2026-10-13. The approved Studio comic identity at [commit `9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8`](https://github.com/DefinitelySecureStudio/studio/blob/9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8/brand/comic-identity.md) supplies series tone and company identity, not facts about June. Her proposed name, pronouns, and characterization remain open to Andrew's revision.
+The coverage and seed come from the U01 packet at [Studio PR 150 head `9f8b6dce18fc57ead202dea0d723a9c7b9f6997d`](https://github.com/DefinitelySecureStudio/studio/blob/9f8b6dce18fc57ead202dea0d723a9c7b9f6997d/issues/u01-epic8-public-source-inventory.md). The approved Studio comic identity at [commit `9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8`](https://github.com/DefinitelySecureStudio/studio/blob/9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8/brand/comic-identity.md) supplies series tone and company identity, not facts about June.

@@ -6,7 +6,7 @@
 - Public debut: Not assigned; no episode selected
 - Last reviewed: 2026-10-13
 
-> U03 proposal for Andrew Peris to review. This is one proposed coworker relationship, not established canon or a claim of public appearance. The relative record links below are proposal references, not stable canon IDs.
+> Proposed relationship record; it is not established canon or a claim of public appearance. The relative record links below are proposal references, not stable canon IDs.
 
 ## Proposed relationship
 
@@ -24,6 +24,6 @@ Their working rhythm is complementary: June brings exact language and responsibi
 
 No reporting hierarchy, tenure, friendship, conflict history, family tie, romance, or prior event is established. This single work relationship is the only relationship proposed for the accepted seed.
 
-## Provenance and open decisions
+## Provenance
 
-The coverage and seed come from the U01 packet at [Studio PR 150 head `9f8b6dce18fc57ead202dea0d723a9c7b9f6997d`](https://github.com/DefinitelySecureStudio/studio/blob/9f8b6dce18fc57ead202dea0d723a9c7b9f6997d/issues/u01-epic8-public-source-inventory.md), accepted as the starting point for drafting by Andrew Peris on 2026-10-13. The approved Studio comic identity at [commit `9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8`](https://github.com/DefinitelySecureStudio/studio/blob/9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8/brand/comic-identity.md) supplies series tone and company identity, not facts about June and Ivo or their relationship. All relationship details remain open to Andrew's revision.
+The coverage and seed come from the U01 packet at [Studio PR 150 head `9f8b6dce18fc57ead202dea0d723a9c7b9f6997d`](https://github.com/DefinitelySecureStudio/studio/blob/9f8b6dce18fc57ead202dea0d723a9c7b9f6997d/issues/u01-epic8-public-source-inventory.md). The approved Studio comic identity at [commit `9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8`](https://github.com/DefinitelySecureStudio/studio/blob/9a3e9dec66f1aa46fefc39b6b7c6944e7cf755a8/brand/comic-identity.md) supplies series tone and company identity, not facts about June and Ivo or their relationship.
