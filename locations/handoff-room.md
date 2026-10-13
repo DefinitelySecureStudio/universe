@@ -14,7 +14,7 @@ The Handoff Room is one shared workroom inside the fictional company Definitely 
 
 ## Proposed physical details
 
-The room is small and bright, with a narrow window, one rectangular table, a shared display, and a wide whiteboard. From the table, the display and board are both easy to see. A dry-erase marker rests on the board's ledge; the clear tabletop leaves room to compare a report with whatever work evidence the editor selects.
+The room is small and bright, with a narrow window, one rectangular table, a shared display, and a wide whiteboard. From the table, the display and board are both easy to see. A dry-erase marker rests on the board's ledge; the clear tabletop leaves room to compare a report with work evidence.
 
 ## Proposed record references
 
